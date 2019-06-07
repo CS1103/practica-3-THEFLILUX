@@ -1,0 +1,3 @@
+C:/Users/Jorge/CLionProjects/PC3-Clases_genericas/cmake-build-debug/CMakeFiles/PC3_Clases_genericas.dir
+C:/Users/Jorge/CLionProjects/PC3-Clases_genericas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jorge/CLionProjects/PC3-Clases_genericas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

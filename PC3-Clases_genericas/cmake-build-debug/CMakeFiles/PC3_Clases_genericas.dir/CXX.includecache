@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge/CLionProjects/PC3-Clases_genericas/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+math.h
+-
+matriz.h
+C:/Users/Jorge/CLionProjects/PC3-Clases_genericas/matriz.h
+
+C:/Users/Jorge/CLionProjects/PC3-Clases_genericas/matriz.h
+vector
+-
+iosfwd
+-
+

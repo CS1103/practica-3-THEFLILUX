@@ -1,0 +1,3 @@
+C:/Users/Jorge/CLionProjects/PC3-STL_Deque/cmake-build-debug/CMakeFiles/PC3_STL_Deque.dir
+C:/Users/Jorge/CLionProjects/PC3-STL_Deque/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jorge/CLionProjects/PC3-STL_Deque/cmake-build-debug/CMakeFiles/rebuild_cache.dir
